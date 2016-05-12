@@ -1,3 +1,5 @@
 # magnum-opus
 
-Test Project
+Test Project for Vertex
+
+Team Members: Lindsay Sauer
